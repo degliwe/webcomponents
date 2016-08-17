@@ -1,0 +1,15 @@
+{
+  "name": "webcomponents",
+  "description": "web component factory",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://www.github.com/degliwe/webcomponents"
+  },
+  "author": "Wesley deglise",
+  "license": "gpl",
+  "bugs": {
+    "url": "https://issues"
+  },
+  "homepage": "https://#readme"
+}
