@@ -1,6 +1,7 @@
 {
   "name": "webcomponents",
   "description": "web component factory",
+  "main": "components.js",
   "version": "0.0.1",
   "repository": {
     "type": "git",
